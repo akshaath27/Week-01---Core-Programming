@@ -75,5 +75,3 @@ The first week was dedicated to understanding the core syntax and essential buil
 - Open the code files in your preferred IDE or editor
 - Practice and modify the code to reinforce your understanding
 
-## Next Steps
-Stay tuned for Week 2, where we dive deeper into Object-Oriented Programming, classes and objects, inheritance, and more.
